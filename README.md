@@ -1,11 +1,11 @@
 # UNIX-Turn-Based-Game
 To run this game: 
-	On Linux; 	1. Navigate to the TerminalGame folder in terminal
-		  	      2. Enter the command "chmod +rwx run.bat"
-		  	      3. Enter the Command "./run.bat"
+On Linux; 	1. Navigate to the TerminalGame folder in terminal
+		2. Enter the command "chmod +rwx run.bat"
+		3. Enter the Command "./run.bat"
 	
-	On Windows:	1. Open the TerminalGame folder
-			        2. Double click the run.bat file
+ On Windows: 	1. Open the TerminalGame folder
+	 	2. Double click the run.bat file
            
 This is my Assembly turnbased multiplayer game that allows for up to 10 players with three different classes with unique attacks and health. This class had a huge focus on Computer register manipulation with moving values around to compare and recieve user input. I learned the true way that the fundamental loops and other statements work behind the scenes and used these to create a functioning game with input validation and randomness.
 
